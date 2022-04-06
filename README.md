@@ -11,11 +11,12 @@ Este proyecto ayudará a aficionados al deporte, estudiantes, deportistas asi co
 
 ## Prototipo
 
-![Prototipo](https://github.com/ElizabethChillcce/LIM017-card-validation/blob/main/prototipo.jpg)
+![Boceto](https://user-images.githubusercontent.com/98761993/162012557-5c421ff5-5cc6-4820-875b-ec0061d0d618.jpeg)
+![1](https://user-images.githubusercontent.com/98761993/162012699-4a6c74f9-27c7-41b2-bed7-5e4a5131b9ca.png)
 
+![2](https://user-images.githubusercontent.com/98761993/162012712-f41cf4e9-9c89-4ca6-9c5d-2270b7f61bfa.png)
 
-
-
+![3](https://user-images.githubusercontent.com/98761993/162012726-22507235-83fa-4d99-ae39-11d67fb9b299.png)
 
 
 ## 1. Preámbulo
